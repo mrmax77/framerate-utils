@@ -22,6 +22,7 @@ export const RATE_60 = create(60, 1, 1);
 export const DEFAULT_FRAME_RATE = RATE_23_976;
 
 /*
+Izmena
  * Adjustment required to account for rounding of input data.
  * For example:
  * frame 836 @ 24fps = 34.83333333333333s
